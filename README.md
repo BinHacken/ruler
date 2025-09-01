@@ -40,3 +40,12 @@ Es empfiehlt sich, die Bauteile wie folgt auf der Platine zu platzieren:
 Wer wenig Erfahrung mit Löten hat, kann auch gerne mit einem der Widerstände (R1-R6) beginnen, da diese in der Regel einfacher zu löten sind. Auch wenn die USB-C Buchse und der Schalter etwas anspruchsvoller zu löten sind, sollten sie nicht zuletzt platziert werden, da die kleinen Pads sonst schwerer zugänglich sind.
 
 Eine Interaktive Ansicht der Platine gibt es hier: https://htmlpreview.github.io/?https://github.com/BinHacken/ruler/blob/main/bom/ibom.html
+
+## Ordering
+
+Folgende Optionen haben wir bei JLC gewählt:
+
+* Deburring/Edge rounding: Yes
+* PCB Thickness: 1mm
+* Surface Finish: Leadfree HASL
+* Mark on PCB: Remove Mark
