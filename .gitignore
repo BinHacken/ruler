@@ -1,0 +1,14 @@
+
+.DS_Store
+
+binhacken-ruler-backups/
+
+*.kicad_prl
+
+fp-info-cache
+
+*.lck
+
+fabrication-toolkit-options.json
+
+production/backups/

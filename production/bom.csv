@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3",LED_Filament_38mm,3,LED,
+J1,TYPE-C-SMD_TYPE-C-6P,1,TYPE-C 6P,C456012
+"R1, R2, R3",1206,3,22R,
+R4,1206,1,51R,
+"R5, R6",1206,2,5K1,
+SW1,SW-SMD_3P-P1.50_L2.7-W6.6,1,SK-3296S-01-L1,C319020
